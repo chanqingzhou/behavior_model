@@ -1,0 +1,4 @@
+user:1 , password:1, captcha:0,error:None, link:True, url:https://www.facebook.com/
+user:1 , password:1, captcha:0,error:None, link:True, url:https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA0Mjc5ODM1LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2LCJsYXN0X3N0YWNrIjoiZmxpYlwvcHJpdmFjeVwvY29udHJvbHNcL1ByaXZhY3lNdXRhdGlvblNvdXJjZVV0aWxzLnBocFx1MDA0MDU2XHUwMDQwUHJpdmFjeU11dGF0aW9uVG9rZW5VdGlsczo6Z2V0VG9rZW5Gb3JDYWxsc2l0ZUlEX0RPX05PVF9VU0VcdTAwNDBQcml2YWN5TXV0YXRpb25Ub2tlblV0aWxzIn0%3D
+user:1 , password:1, captcha:0,error:None, link:True, url:https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=120&lwc=1348028
+user:0 , password:0, captcha:0,error:try againhelp me locate my account, link:True, url:https://www.facebook.com/login/help.php?email=casfmsa%40hotmail.com&st=h_noacct&lwv=120&lwc=1348028

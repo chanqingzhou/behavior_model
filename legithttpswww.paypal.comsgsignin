@@ -1,0 +1,3 @@
+user:1 , password:0, captcha:0,error:None, link:True, url:https://www.paypal.com/sg/signin
+user:1 , password:1, captcha:0,error:None, link:True, url:https://www.paypal.com/sg/signin
+user:0 , password:0, captcha:1,error:None, link:False, url:https://www.paypal.com/signin

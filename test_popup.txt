@@ -1,0 +1,75 @@
+http://www.baidu.com/	<div class="pass-login-pop-form">
+http://sohu.com/	<li data-role="mobilelogin-bar" class="cur">
+https://www.sina.com.cn/	<div class="otwo_d_wrap" node-type="layerleft_preloginThumb">
+https://www.zhanqi.tv/	<div class="accounts-login">
+https://www.twitch.tv/	<div class="auth-modal__left-content tw-overflow-auto">
+https://www.aliexpress.com/	<div class="fm-dialog-body" data-spm-anchor-id="a2g0o.home.0.i1.650c2145QoGTED">
+https://www.yy.com/	<div class="m_form m_qrcodeLogin" id="m_qrcodeLogin" >
+https://www.aparat.com/	<div class="modal-content">
+https://edition.cnn.com/	<div mode="dark" aria-modal="true" class="Box-sc-1fet97o-0 indexes__ModalWrapper-cuu603-1 fsxwNg">
+https://www.flipkart.com/	<div class="_3wFoIb row">
+https://www.freepik.com/	<div class="content profile-login__forms">
+https://www.etsy.com/	<div class="wt-grid__item-xs-12">
+https://www.so.com/?src=so.com	<div class="quc-panel-hd">
+https://www.hao123.com/	<div id="passport-login-pop" class="tang-pass-pop-login-merge tang-pass-pop-login-tpl-hao123 tang-pass-pop-login-color-blue tang-pass-pop-login" style="left: 346px; top: 256px; z-index: 60001;">
+https://www.espn.com.sg/	<div id="did-ui" class="wrapper">
+https://www.detik.com/	<section class="dtkid__form text-center">
+https://soundcloud.com/	<div class="connect-form-pane">
+https://www.tradingview.com/	<div class="tv-dialog__modal-body">
+https://www.shutterstock.com/	<div class="e_j_31797">
+https://www.tiktok.com/	<div class="tiktok-app-container-12zKy">
+https://quizlet.com/en-gb	<div class="LoginPromptModal-socialButtons">
+https://vimeo.com/	<div id="dialog-content" class="iris_modal-content">
+https://www.pinterest.com/	<div data-test-id="full-page-signup-close-button" class="KO4 MIw QLY jar oy8 p6V rDA zI7 iyn Hsu" style="height: 40px; width: 40px;">
+https://www.tokopedia.com/	<div class="css-1caxldx" data-testid="loginform">
+https://www.iqiyi.com/	<h2 class="login-title">
+https://www.hotstar.com/sg	<div class="pnl-manager">
+https://www.sogou.com/	<div class="login-wrap" id="sogoLoginWrap">
+https://www.so.com/?src=haosou.com	<div class="quc-panel-hd">
+https://www.cnet.com/	<h2 id="authModalLabel">
+https://www.w3schools.com/	<div class="loginmodalform">
+https://www.investing.com/	<div id="loginPopup" class="genPopup signingPopup displayNone" style="position: fixed; opacity: 1; top: 286.5px; left: 380px; display: block;">
+https://www.momoshop.com.tw/main/Main.jsp	<div id="ajaxLogin" class="openidBox">
+https://smallpdf.com/	<div class="nsfveb-0 hRJmNR">
+https://www.wikihow.com/Main-Page	<div class="oo-ui-processDialog-location" style="padding-left: 139px; padding-right: 139px>
+https://www.hulu.com/welcome	<div class="modal--body">
+https://aliexpress.ru/	<div class="fm-dialog-body">
+https://www.cnbc.com/world/?region=world	<div class="AuthForms-toggleCta">
+https://www.scribd.com/	<div class="content options_screen">
+https://www.geeksforgeeks.org/	<div class="login-register-div">
+https://www.fiverr.com/	<div class="sign-in-form">
+https://www.telewebion.com/	<img _ngcontent-tw-c62="" alt="login" src="https://static.televebion.net/web/images/login-registration-background.png">
+https://www.pinterest.com/	<div data-test-id="full-page-signup-close-button" class="KO4 MIw QLY jar oy8 p6V rDA zI7 iyn Hsu" style="height: 40px; width: 40px;">
+https://www.chinaz.com/	<div class="loginMain">
+https://yts.mx/	<div class="modal-login-content">
+https://www.realtor.com/	<div data-testid="common-screen-v2" class="sc-psCJM fqvzyR">
+https://www.airbnb.com.sg/?_set_bev_on_new_domain=1608989611_OWIwYTc3YmRmN2M2	<div role="dialog" aria-label="Log in" class="_my6j2s" style="position: relative;">
+https://www.moneycontrol.com/	<div class="signwrap">
+https://www.hurriyet.com.tr/	<div class="login-popup">
+https://www.nike.com/sg/	<form id="nike-unite-loginForm" class="nike-unite-form">
+https://www.ensonhaber.com/	<div class="fancybox-content" style="">
+https://www.naukri.com/	<div class="login-layer">
+https://www.gsmarena.com/	<form action="login.php3" method="post">
+https://www.khanacademy.org/	<label for="uid-identity-text-field-2-password">
+https://9gag.com/	<section id="signup">
+https://www.alodokter.com/	<div id="loginFormModal" class="modal-content-full">
+https://ebc.net.tw/	<div class="login_message">
+https://huaban.com/	<div class="login" style="display: block;">
+https://ria.ru/	<div class="modal__preset" id="modalAuth">
+https://www.justdial.com/	<div class="modal-content">
+https://www.brilio.net/#a-3	<div class="popup2">
+https://www.hm.com/entrance.ahtml?orguri=%2F	<form id="modal-theLoginForm">
+https://www.lowes.com/	<div class="modal-header-title">
+https://tudou.com/	<form id="login-form" class="login-form">
+http://www.winshang.com/index.html	<div class="loginh">
+https://www.wattpad.com/	<div id="authentication-panel" class="login-form">
+https://en.uptodown.com/windows	<form id="register-login-form" class="access">
+https://www.skroutz.gr/	<div id="login-contents" class="login-signup-main login">
+https://www.independent.co.uk/?CMP=ILC-refresh	<a href="/register" class="sc-fzoyAV dCGgOz">
+https://www.ozon.ru/	<div class="" id="loginOrRegistration">
+https://lenta.ru/	<form novalidate="" class=" -visor-no-click" >
+https://www.ultimate-guitar.com/	<section class="TVSW7 _1xu3k">
+https://www.britannica.com/	<input title="username" id="username" class="form-control" name="username" required="" placeholder="Username or email" autofocus="">
+https://www.ivi.tv/	<input data-test="input_login" name="email" autocomplete="on" class="nbl-input__editbox" value="">
+http://www.ccaonline.cn/	<input type="text" name="username" tabindex="2" spellcheck="false" autocomplete="off" class="">
+https://themeforest.net/	<input tabindex="0" name="username" class="fds-c-form-input -type-string" size="50" type="text" required="" value="">

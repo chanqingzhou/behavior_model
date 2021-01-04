@@ -1,0 +1,34 @@
+http://www.baidu.com/	<div class="pass-login-pop-form">
+http://sohu.com/	<li data-role="mobilelogin-bar" class="cur">
+https://www.reddit.com/	<form class="AnimatedForm" action="/login" method="post">
+https://www.sina.com.cn/	<div class="otwo_d_wrap" node-type="layerleft_preloginThumb" style="display:none;">
+https://www.zhanqi.tv/	<div class="accounts-login">
+https://www.twitch.tv/	<div class="auth-modal__left-content tw-overflow-auto">
+https://www.aliexpress.com/	<div class="fm-dialog-body">
+https://www.yy.com/	<div class="m_form m_qrcodeLogin" id="m_qrcodeLogin" style="">
+https://medium.com/	<div class="me mf ag ar az ah au mg mh mi mc">
+https://www.aparat.com/	<div class="modal-content">
+https://edition.cnn.com/	<div width="100%,680px" mode="dark" aria-modal="true" class="Box-sc-1fet97o-0 indexes__ModalWrapper-cuu603-1 fsxwNg">
+https://www.flipkart.com/	<div class="_3wFoIb row">
+https://www.freepik.com/	<div class="content profile-login__forms">
+https://www.etsy.com/	<div class="wt-grid__item-xs-12">
+https://www.so.com/?src=so.com	<div class="quc-panel-hd">
+https://www.hao123.com/	<div id="passport-login-pop" class="tang-pass-pop-login-merge tang-pass-pop-login-tpl-hao123 tang-pass-pop-login-color-blue tang-pass-pop-login" style="left: 346px; top: 256px; z-index: 60001;">
+https://www.espn.com.sg/	<div id="did-ui" class="wrapper">
+https://www.detik.com/	<section class="dtkid__form text-center">
+https://soundcloud.com/	<div class="connect-form-pane">
+https://www.tradingview.com/	<div class="tv-dialog__modal-body">
+https://www.shutterstock.com/	<div class="e_j_31797">
+https://www.tiktok.com/	<div class="tiktok-app-container-12zKy">
+https://quizlet.com/en-gb	<div class="LoginPromptModal-socialButtons">
+https://vimeo.com/	<div id="dialog-content" class="iris_modal-content">
+https://www.pinterest.com/	<div data-test-id="full-page-signup-close-button" class="KO4 MIw QLY jar oy8 p6V rDA zI7 iyn Hsu" style="height: 40px; width: 40px;">
+https://www.tokopedia.com/	<div class="css-1caxldx" data-testid="loginform">
+https://www.iqiyi.com/	<h2 class="login-title">
+https://www.hotstar.com/sg	<div class="pnl-manager">
+https://www.sogou.com/	<div class="login-wrap" id="sogoLoginWrap">
+https://www.so.com/?src=haosou.com	<div class="quc-panel-hd">
+https://www.cnet.com/	<h2 id="authModalLabel">
+https://www.w3schools.com/	<div class="loginmodalform">
+https://www.investing.com/	<div id="loginPopup" class="genPopup signingPopup displayNone" style="position: fixed; opacity: 1; top: 286.5px; left: 380px; display: block;">
+https://www.momoshop.com.tw/main/Main.jsp	<div id="ajaxLogin" class="openidBox">

@@ -1,0 +1,2 @@
+user:1 , password:1, captcha:0,error:None, link:True, url:http://www.healmedicaltrauma.com/match/, final:0
+user:0 , password:0, captcha:0,error:additionally, a 403 forbidden error was encountered while trying to use an errordocument to handle the request., link:False, url:http://www.healmedicaltrauma.com/match/comtech.php, final:0

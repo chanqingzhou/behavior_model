@@ -1,0 +1,137 @@
+https://www.youtube.com/,('https://accounts.google.com/signin/v2/identifier?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en&ec=65620&flowName=GlifWebSignIn&flowEntry=ServiceLogin', 0)
+https://www.google.com/,('https://accounts.google.com/signin/v2/identifier?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAAQ&flowName=GlifWebSignIn&flowEntry=ServiceLogin', 0)
+https://www.tmall.com/,('https://login.tmall.com/?spm=875.7931836/B.a2226mz.1.66144265et035W&redirectURL=https%3A%2F%2Fwww.tmall.com%2F', 1)
+https://www.qq.com/?fromdefault,('https://www.qq.com/?fromdefault', 1)
+http://taobao.com/,('https://world.taobao.com/', 1)
+https://www.amazon.com/,('https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&', 0)
+https://www.360.cn/,('https://i.360.cn/login/?src=pcw_home&destUrl=https://www.360.cn/', 1)
+https://safe.online.360.cn/?src=guanwanghead,[]
+https://global.jd.com/,('https://global.jd.com/', 0)
+https://sg.yahoo.com/?p=us,('https://login.yahoo.com/?.src=fpctx&.intl=sg&.lang=en-SG&.done=https://sg.yahoo.com&pspid=2142378882', 0)
+https://zoom.us/,('https://zoom.us/signin', 0)
+https://outlook.live.com/owa/,('https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1607630404&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3dbea8649a-ffb8-459e-af5e-514814907466&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015', 0)
+http://xinhuanet.com/,[]
+https://www.netflix.com/sg/,('https://www.netflix.com/sg/login', 0)
+https://www.office.com/,('https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&redirect_uri=https%3A%2F%2Fwww.office.com%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=637432272660836062.ZTIyYTMwYzEtNGQ2My00MzcxLTk3OTYtNzgwYzczNTliM2Y5YjUyZTdmN2UtYWJhNS00OGNjLTgxODctNjg2MDhiMWY3Zjc2&ui_locales=en-US&mkt=en-US&client-request-id=7e9785cf-f976-4d19-ade0-083ef9429b0a&state=Xx3BVGN1zOLU5bANpUIFKy08tX3Vw652y9AAunsY1M6grcehOQJXBO79Y9NCT30Ncq4Gky7seW1md4Mjh4ROcCDl1UfRJOJV5ChGktkkTfr5UHGjq970CAiF4Ry-5RNJINC9E5Zc5xx3EP5D8hJBgMzNuMspDcRiZHcrw0L7a-g4Cv6VOkx1cAX5QcIFbf-DtJJMIEYHvHcOKMtXSYK9bWEPheD_dWYayw1YcneSpH420xQm5Azv813E6eptgzk7ZsJdik1G0PIo6rTK6jkjkQ&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.6.0.0', 0)
+https://www.okezone.com/,[]
+https://www.alipay.com/,('https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F', 1)
+https://www.csdn.net/,('https://www.csdn.net/', 0)
+https://www.yahoo.co.jp/,('https://www.yahoo.co.jp/', 1)
+https://www.google.com.hk/?gws_rd=ssl,('https://login.yahoo.co.jp/config/login?.src=www&.done=https://www.yahoo.co.jp/', 1)
+https://www.bing.com/?toWww=1&redig=A65111889F954E53ABC508678AFB9917,('https://www.bing.com/?toWww=1&redig=A65111889F954E53ABC508678AFB9917', 0)
+https://www.ebay.com/,('https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1607630694&rver=6.7.6631.0&wp=MBI_SSL&wreply=https%3a%2f%2fwww.bing.com%2fsecure%2fPassport.aspx%3frequrl%3dhttps%253a%252f%252fwww.bing.com%252f%253ftoWww%253d1%2526redig%253dA65111889F954E53ABC508678AFB9917%2526wlexpsignin%253d1%26sig%3d1E9B556E502663BF3C0B5AF2512762CB&lc=1033&id=264960&CSRFToken=9b48c856-7cda-4eae-b9a0-ca1dea95f71d&aadredir=1', 0)
+https://www.apple.com/,[]
+https://www.naver.com/,[]
+http://www.tianya.cn/,[]
+https://www.amazon.in/,('https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&', 0)
+http://amazon.co.jp/,[]
+https://twitter.com/,('https://twitter.com/login', 0)
+https://www.adobe.com/,[]
+https://stackoverflow.com/,('https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f', 0)
+https://www.huanqiu.com/,[]
+https://yandex.ru/,('https://yandex.ru/', 1)
+https://www.msn.com/en-sg/,('https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1607630942&rver=7.0.6730.0&wp=LBI&wreply=https%3a%2f%2fwww.msn.com%2fen-sg%2fhomepage%2fSecure%2fPassport%3fru%3dhttps%253a%252f%252fwww.msn.com%252fen-sg%252f%253fpfr%253d1&lc=1033&id=1184&mkt=en-sg&pcexp=True', 0)
+https://www.linkedin.com/home,('https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin', 0)
+https://wordpress.com/,('https://wordpress.com/', 0)
+https://www.huanqiu.com/,[]
+https://www.tribunnews.com/,('https://account.tribunnews.com/login/dHJpYnVubmV3cw==/aHR0cHM6Ly93d3cudHJpYnVubmV3cy5jb20v?_ga=2.141655350.569110899.1607631041-209398965.1607631041', 0)
+http://17ok.com/,('http://17ok.com/', 1)
+https://aws.amazon.com/,[]
+https://www.imdb.com/,('https://www.imdb.com/registration/signin?ref=nv_generic_lgin&u=%2F', 0)
+https://trello.com/,('https://trello.com/', 0)
+https://www.rakuten.co.jp/,[]
+https://www.primevideo.com/,('https://www.amazon.com/ap/signin?accountStatusPolicy=P1&clientContext=358-7569972-8671250&language=en_US&openid.assoc_handle=amzn_prime_video_desktop_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.primevideo.com%2Fauth%2Freturn%2Fref%3Dav_auth_ap%3F_encoding%3DUTF8%26location%3D%252Fref%253Ddv_auth_ret', 0)
+https://www.mama.cn/,('https://passport.mama.cn/?key=tianjing&service=http%3A%2F%2Fwww.mama.cn%2F&t=1480682669&sign=346d14a0239b3685339900b79fc15227', 1)
+https://sg.indeed.com/?r=us,('https://secure.indeed.com/account/login?hl=en_SG&co=SG&continue=https%3A%2F%2Fsg.indeed.com%2F%3Fr%3Dus&tmpl=desktop&service=my&from=gnav-util-homepage&jsContinue=https%3A%2F%2Fsg.indeed.com%2F&empContinue=https%3A%2F%2Faccount.indeed.com%2Fmyaccess&_ga=2.238700611.294145756.1607631494-472605050.1607631494', 0)
+https://www.nytimes.com/,('https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fmultiproduct%2Flp8KQUS.html%3FcampaignId%3D7JFJX%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F&asset=masthead', 0)
+https://sg.alibabacloud.com/en,[]
+https://www.spotify.com/sg-en/,('https://accounts.spotify.com/en/login/?continue=https:%2F%2Fwww.spotify.com%2Fapi%2Fgrowth%2Fl2l-redirect&_locale=en-SG', 0)
+https://www.cnblogs.com/,[]
+https://www.bbc.com/,[]
+http://www.jrj.com.cn/,[]
+https://www.grid.id/,('https://account.grid.id/login/Z3JpZA==/aHR0cHM6Ly93d3cuZ3JpZC5pZC8=', 0)
+https://www.okta.com/,('https://www.okta.com/', 0)
+http://babytree.com/,[]
+https://www.kompas.com/,('https://account.kompas.com/login/a29tcGFz/aHR0cHM6Ly93d3cua29tcGFzLmNvbS8=', 1)
+https://www.roblox.com/,('https://www.roblox.com/login', 0)
+https://www.pixnet.net/,('https://member.pixnet.cc/login/verify?utm_source=PIXNET&utm_medium=VisitorIndex&utm_term=expCheckIn&utm_campaign=proj-EXP', 1)
+http://thestartmagazine.com/feed/summary,[]
+https://www.walmart.com/,[]
+https://www.udemy.com/,('https://www.udemy.com/', 1)
+https://www.paypal.com/sg/home,('https://www.paypal.com/sg/signin', 0)
+https://stackoverflow.com/,('https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f', 0)
+https://www.microsoft.com/en-sg/microsoft-365?ms.url=office365com&rtc=1,('https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&redirect_uri=https%3A%2F%2Fwww.office.com%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=637432287985403008.MjE5M2Y2NDEtOTIzMS00ODc2LTlkZGMtZmQ1NGZjY2NmYWMzNjliZjU2NDgtYmI5Mi00MDM5LWI5OTQtN2VmNzZjNDQ3NTc3&ui_locales=en-US&mkt=en-US&client-request-id=7e9785cf-f976-4d19-ade0-083ef9429b0a&state=HA6aTnYhO_0aAO1O5vn6S4q5PQOpYyffVknaW5AxnKB_0FoAwLIV0dlqK0yuf89NS4BS4KHDUicBW7Fv2PvDHa-ZgCfYeVnPjpKrRdqlT9DUn7v5UfVc2aN5TkfCiBheEse-9_9YLepR3biW6Pe0iZcUk3eHo00kUB5MGkxtCv25EaZ8bss75s-ifz_BPToKUzZ6eCe7E1J5-DdkptAwacbZvnnjGWTCIRB_v3Q8IBs3dbbiozNrHGWWymdYkfIki6vp2zi-GaF3O-fgyyCt9w&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.6.0.0', 0)
+https://www.pikiran-rakyat.com/,[]
+https://wetransfer.com/,('https://wetransfer.com/log-in', 0)
+https://github.com/,[]
+https://www.6.cn/,('https://v.6.cn/logins.php', 1)
+https://www.gome.com.cn/,('https://login.gome.com.cn/login?intcmp=sy-public01002', 1)
+https://stackexchange.com/,('https://meta.stackexchange.com/users/login?returnurl=https%3a%2f%2fstackexchange.com%2fusers%2flogin-or-signup%2fdelegated%3freturnurl%3dhttps%253a%252f%252fstackexchange.com%253f_%253d53916477&cdl=1', 0)
+https://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp&gws_rd=ssl,('https://accounts.google.com/ServiceLogin?hl=zh-CN&passive=true&continue=https://www.google.com.hk/webhp%3Fhl%3Dzh-CN%26sourceid%3Dcnhp%26gws_rd%3Dssl&ec=GAZAAQ', 1)
+https://www.fandom.com/,[]
+https://www.tumblr.com/,[]
+https://www.amazon.de/,[]
+https://www.grammarly.com/,('https://www.grammarly.com/', 0)
+https://www.sindonews.com/,[]
+https://www.google.es/?gws_rd=ssl,('https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.es/%3Fgws_rd%3Dssl&ec=GAZAAQ', 0)
+https://www.nih.gov/,[]
+https://www.salesforce.com/ap/?ir=1,[]
+https://en.savefrom.net/18/,[]
+https://www.ilovepdf.com/,('https://www.ilovepdf.com/login', 0)
+https://www.indiatimes.com/,('https://www.indiatimes.com/login', 0)
+https://www.onlinesbi.com/,('https://retail.onlinesbi.com/retail/login.htm', 0)
+https://www.speedtest.net/,('https://www.speedtest.net/login', 0)
+https://www.chase.com/,[]
+https://www.bilibili.com/,[]
+https://www.foxnews.com/,('https://my.foxnews.com/', 0)
+https://www.bbc.com/,[]
+https://www.washingtonpost.com/,[]
+https://www.researchgate.net/,('https://www.researchgate.net/login?_sg=CSjxSbgeCXJn6oe54IKoiQkWnzTSp3m8-v15XzhlnYcH1LRPpbr8IXdvzTKx0eEKSLjwUmzML44y4RLbluWhGg', 0)
+https://www.hotstar.com/sg,[]
+https://www.booking.com/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKJ28H-BcACAdICJDg4Yzc3MGMzLWQyNGMtNGNjYi1hNzJlLTNmZWM5ZGZkNmNiMdgCBeACAQ;sid=6652cbf9b98192c369b9486bf15b3729;keep_landing=1&sb_price_type=total&,('https://account.booking.com/sign-in?op_token=EgVvYXV0aCKXBQoUdk8xS2Jsazd4WDl0VW4yY3BaTFMSCWF1dGhvcml6ZRo1aHR0cHM6Ly9zZWN1cmUuYm9va2luZy5jb20vbG9naW4uaHRtbD9vcD1vYXV0aF9yZXR1cm4qtgRVcVVEeW1zaEwxVVVaTUozUXdKaDltT2hmeUpaVkFsRUluZWNUVG9GdzBxRUdYOGxuaERQZ1lJQVo0NW1pMDdPQzJ3TGdibWtPcnFtRmxpbW56VHF2Uy1tT0gxWTJLbFlabFlLRHV0d1JKeXhoWlJCMzUwNExuVkxhbWdPWkxNT1NIUk9tYVhPblNhX0ZhQUVkQVZFRm9HdWl2UzhGQk1EcGVDZEI3dVVsY1lURkJFUGpia3ItSnNNVFBlT1lNQlY3WkZ4SXdRTjgwOExzaDdfcTc4alBGSGktU19sNlYtMWU5ODBRb0V6TFJJQld5ajd3SUEta09Odl9zWWhQSENXX1J2V2tFMVdqeXpscWduaUtvMDl4QTdfbnFCNGpQWUVfQlZUclI5QWZzcUp2UGNySnhUeUVLeTJYbHZZOERHZDdaN2Z5NllZVnZZT3QyV3VYZHdaN0NDNFRRVi1DNjVsZUl3MFhBckhZcWhER0ZrYTRtcGZmclRsVlpuMzVUZHU0NFJBTVI2NHVVcTNzaDNKaUxuMXFuRlI3OEJrMlJpMm9vdWZQQTBuMGF4Y0kwcGd1NFpXX2NZbEJ3Vl9IeEwyX3EyMDJJOWlIcEoyUU9iVkU2ZlAxN21fMmdqRTZ3TlduMmpwY2hEQ3kzTE5pMFlLenQ3dlRBdlgzU0xjTTR6Q3lPb1lqQTYzR3VTVVA4RERud3VqRU43WDZpM2wtV2hESmU3TDZSS1h5VDFwYktFNVpmM1ozZ0IEY29kZSoWCI7IEjC_i573g8ckOgBCAFjojMr-BQ', 0)
+https://padlet.com/,('https://padlet.com/auth/login', 0)
+https://www.wix.com/,[]
+https://www.youm7.com/,[]
+https://www.amazon.ca/,('https://www.amazon.ca/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.ca%2F%3Fref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=caflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&', 0)
+https://www.sogou.com/,('https://www.sogou.com/', 1)
+https://www.digikala.com/,('https://www.digikala.com/users/login-register/?_back=https://www.digikala.com/', 1)
+https://www.so.com/?src=haosou.com,('https://www.so.com/?src=haosou.com', 1)
+https://www.slideshare.net/,('https://www2.slideshare.net/login', 0)
+https://line.me/en/,[]
+https://www.mediafire.com/,('https://www.mediafire.com/login/', 0)
+https://www.avito.ru/rossiya#login?authsrc=h,[]
+https://www.liputan6.com/,('https://www.liputan6.com/login?back-to=https%3A%2F%2Fwww.liputan6.com%2F', 1)
+https://singapore.craigslist.org/,[]
+https://archive.org/,[]
+https://suara.com/,('https://www.arkadia.me/login/aHR0cCUzQSUyRiUyRnN1YXJhLmNvbSUyRg==', 0)
+https://www.uol.com.br/,[]
+https://www.setn.com/,[]
+https://www.usps.com/,('https://reg.usps.com/entreg/LoginAction_input?app=Phoenix&appURL=https://www.usps.com/', 0)
+https://www.globo.com/,('https://www.globo.com/#', 1)
+https://www.bestbuy.com/?intl=nosplash,[]
+https://www.bestbuy.com,[]
+https://www.tistory.com/,('https://www.tistory.com/auth/login', 1)
+http://www.rednet.cn/index.html,[]
+https://kumparan.com/,('https://kumparan.com/', 2)
+https://www.w3schools.com/,[]
+https://www.merdeka.com/,[]
+https://www.investing.com/,('https://www.investing.com/', 0)
+https://www.bukalapak.com/,('https://www.bukalapak.com/login?from=nav_header&direct=1&comeback=https%3A%2F%2Fwww.bukalapak.com%2F%3Ffrom%3Dhttps%3A%2F%2Fwww.bukalapak.com%2F', 0)
+https://ameblo.jp/,('https://dauth.user.ameba.jp/ameba/login/direct?client_id=705dcb2302b98debdcc17fa6da7c91a06bbe9ad6038b4faf6ccbe943d0ce409c&redirect_uri=https%3A%2F%2Fblog.ameba.jp%2Fucs%2Fdauth%2Fcallback%2F%3FdauthCallbackToken%3D178943fc-5b3d-37d1-9469-801406fad1f6', 1)
+https://www.ebay.de/,('https://signin.ebay.de/ws/eBayISAPI.dll?SignIn&ru=https%3A%2F%2Fwww.ebay.de%2F', 1)
+https://www.momoshop.com.tw/main/Main.jsp,('https://www.momoshop.com.tw/main/Main.jsp', 1)
+https://www.skype.com/en/,('https://www.skype.com/en/', 0)
+https://www.breitbart.com/,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
+https://adobe.com,[]
