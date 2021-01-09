@@ -1,0 +1,4 @@
+user:1 , password:0, captcha:None,error:None, link:1, url:http://localhost:8051/, final:None
+user:1 , password:0, captcha:None,error:None, link:1, url:http://localhost:8051/Billing.php, final:None
+user:1 , password:0, captcha:None,error:None, link:1, url:http://localhost:8051/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=test123123%40gmail.com, final:None
+user:0 , password:0, captcha:None,error:the requested resource /s/action_page.php was not found on this server., link:0, url:http://localhost:8051/s/action_page.php, final:1

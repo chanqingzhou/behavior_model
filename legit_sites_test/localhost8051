@@ -1,0 +1,3 @@
+user:1 , password:1, captcha:None,error:None, link:1, url:http://localhost:8051/, final:None
+user:1 , password:1, captcha:None,error:incorrect email and/or password!, link:1, url:http://localhost:8051/index2.php, final:None
+user:1 , password:1, captcha:None,error:None, link:0, url:https://www.linkedin.com/login, final:1

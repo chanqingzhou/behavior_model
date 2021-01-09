@@ -6,7 +6,7 @@ import lxml.html as LH
 import lxml.html.clean as clean
 import tldextract
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
-
+import sys
 
 
 def clean_domain(domain, deletechars='\/:*?"<>|'):
@@ -187,7 +187,7 @@ class WebsiteTester:
         time.sleep(3)
         first_url = self.driver.current_url
         states = []
-        for i in range(0,3):
+        for i in range(0,5):
             print(i)
             state = State(self.driver, first_url)
             usernames, passwords, other_inputs = self.find_username_password()
@@ -248,9 +248,14 @@ if __name__ == "__main__":
         "translate_whitelists": white_lists
     }
 
-    url = 'https://krepbromationserneon.org/terplmaser/mazon/96daf'
+    url = 'localhost:8051'
+    if len(sys.argv) == 1:
+        file_name = clean_domain(url)
+    else:
+        file_name = sys.argv[1]
     tester = WebsiteTester(url,prefs)
     states = tester.test_site()
-    with open('legit_sites_test/' + clean_domain(url), 'w+') as f:
+    print(file_name)
+    with open('legit_sites_test/' + file_name, 'w+') as f:
         for state in states:
             f.write(str(state) + '\n')

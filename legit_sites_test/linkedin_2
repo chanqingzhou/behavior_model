@@ -1,0 +1,3 @@
+user:1 , password:1, captcha:None,error:None, link:1, url:http://localhost:8051/, final:None
+user:1 , password:1, captcha:None,error:hmm, that's not the right password. please try again or request a new one., link:1, url:http://localhost:8051/login-submit/?id=dGVzdDEyMzEyM0BnbWFpbC5jb20=, final:None
+user:0 , password:0, captcha:None,error:None, link:0, url:https://www.linkedin.com/home/, final:1

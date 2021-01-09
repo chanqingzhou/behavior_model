@@ -1,0 +1,4 @@
+user:1 , password:1, captcha:None,error:None, link:1, url:http://localhost:8051/index.htm?cmd=login_submit&id=077f8f62ed7823c264fba3459751cb22077f8f62ed7823c264fba3459751cb22&session=077f8f62ed7823c264fba3459751cb22077f8f62ed7823c264fba3459751cb22, final:None
+user:1 , password:1, captcha:None,error:None, link:1, url:http://localhost:8051/index.htm?cmd=login_submit&id=077f8f62ed7823c264fba3459751cb22077f8f62ed7823c264fba3459751cb22&session=077f8f62ed7823c264fba3459751cb22077f8f62ed7823c264fba3459751cb22, final:None
+user:1 , password:1, captcha:None,error:None, link:1, url:http://localhost:8051/index.htm?cmd=login_submit&id=077f8f62ed7823c264fba3459751cb22077f8f62ed7823c264fba3459751cb22&session=077f8f62ed7823c264fba3459751cb22077f8f62ed7823c264fba3459751cb22, final:None
+user:0 , password:0, captcha:None,error:None, link:0, url:http://localhost:8051/do.php, final:1

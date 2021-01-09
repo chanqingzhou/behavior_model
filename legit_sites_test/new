@@ -1,0 +1,4 @@
+user:1 , password:0, captcha:None,error:None, link:1, url:http://localhost:8051/s/?signin=d41d8cd98f00b204e9800998ecf8427e&auth=dc1751de1ede694708dd3c34b449e0b08ccc48e5cc55ba1ee2f5cd035cbe451c0e9c7e0e, final:None
+user:1 , password:0, captcha:None,error:None, link:0, url:http://localhost:8051/l/?signin=d41d8cd98f00b204e9800998ecf8427e&auth=dc1751de1ede694708dd3c34b449e0b08ccc48e5cc55ba1ee2f5cd035cbe451c0e9c7e0e#, final:None
+user:1 , password:0, captcha:None,error:None, link:0, url:http://localhost:8051/le/?signin=d41d8cd98f00b204e9800998ecf8427e&auth=dc1751de1ede694708dd3c34b449e0b08ccc48e5cc55ba1ee2f5cd035cbe451c0e9c7e0e, final:None
+user:0 , password:0, captcha:None,error:None, link:2, url:https://www.office.com/, final:1

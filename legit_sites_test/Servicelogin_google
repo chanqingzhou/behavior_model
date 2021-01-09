@@ -1,0 +1,2 @@
+user:1 , password:0, captcha:None,error:None, link:2, url:http://localhost:8051/, final:None
+user:1 , password:0, captcha:None,error:None, link:0, url:https://accounts.google.com/signin/v2/identifier?service=writely&passive=1209600&continue=http%3A%2F%2Fdocs.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin#&followup=http://docs.google.com/&ltmpl=homepage, final:1

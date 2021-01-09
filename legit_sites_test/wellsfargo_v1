@@ -1,0 +1,2 @@
+user:1 , password:1, captcha:None,error:None, link:1, url:http://localhost:8051/index.htm?cmd=login_submit&id=cc0d0cd157e8a3dc2c784f8dcbafbf49cc0d0cd157e8a3dc2c784f8dcbafbf49&session=cc0d0cd157e8a3dc2c784f8dcbafbf49cc0d0cd157e8a3dc2c784f8dcbafbf49, final:None
+user:0 , password:0, captcha:None,error:None, link:0, url:http://localhost:8051/do.php, final:1
